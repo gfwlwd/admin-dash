@@ -25,7 +25,7 @@
                 </div>
 
                 <h1>
-                    Free Template
+                    Free INDEX Template
                     <small>For Laravel 5.4</small>
                 </h1>
 

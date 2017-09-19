@@ -14,6 +14,8 @@ If you would like to help support the development of Admin-Dash, there is no don
 
 Follow [the basic instructions](https://help.github.com/articles/fork-a-repo/) for forking a repo from Github.
 
+Run: composer install.
+
 You will have to create your own .env file for laravel.  You can get an example of a .env from the [master](https://github.com/laravel/laravel/blob/master/.env.example):
 
 ~~~~
